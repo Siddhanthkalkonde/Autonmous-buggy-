@@ -55,6 +55,7 @@ The code uses `yolov8n-seg.pt` which should be in your working directory:
 model_path = 'your_custom_segmentation_model.pt'
 ```
 
+
 ## How This Absolute Unit Works
 
 1. **Model Loading** 🚀: Loads YOLOv8n segmentation model (the good stuff)
@@ -141,3 +142,9 @@ blended = cv2.addWeighted(frame, 0.3, color_mask, 0.7, 0)
 *P.S. - If this makes your computer sound like a jet engine, that's normal. If it starts smoking, that's not.* 🔥
 
 *Last updated: When we remembered segmentation is cooler than detection*
+
+
+
+
+HOLD UP HOLD UP HOLD UP BEFORE YOU GO , THIS IS AI , NOT ME 
+
